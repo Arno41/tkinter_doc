@@ -1,7 +1,7 @@
 .. _SCROLLBAR:
 
 ********************
-The Scrollbar widget
+Le widget Scrollbar
 ********************
 
 A number of widgets, such as listboxes and canvases, can act like sliding windows into a larger virtual area. You can connect scrollbar widgets to them to give the user a way to slide the view around relative to the contents. Here's a screen shot of an entry widget with an associated scrollbar widget:
